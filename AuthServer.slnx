@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="AuthServer.API/AuthServer.API.csproj" />
+  <Project Path="AuthServer.Core/AuthServer.Core.csproj" />
+  <Project Path="AuthServer.Data/AuthServer.Data.csproj" />
+  <Project Path="AuthServer.Services/AuthServer.Services.csproj" />
+  <Project Path="MiniApp1.API/MiniApp1.API.csproj" />
+  <Project Path="MiniApp2.API/MiniApp2.API.csproj" Id="089529d2-e3ee-49ae-b5e5-0eae70b3e9c6" />
+  <Project Path="MiniApp3.API/MiniApp3.API.csproj" Id="eb715c41-70a3-4ee5-9a47-40f70c71d80d" />
+  <Project Path="SharedLibrary/SharedLibrary.csproj" Id="449c0739-602b-425a-8b68-7620093ca98f" />
+</Solution>
